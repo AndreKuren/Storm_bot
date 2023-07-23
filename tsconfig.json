@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "NodeNext",
+    "target": "es2021",
+    "outDir": "./dist"
+  },
+  "include": [
+    "./global.d.ts",
+    "./src"
+  ]
+}
