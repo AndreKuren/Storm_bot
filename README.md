@@ -26,11 +26,11 @@ This way, Storm is leveraging Telegram wallet integration to become the first DE
 ## **So how to use it?**
 
 1. TWA has been created to make your trading as simple as possible. So first open the Telegram app;
-2. Open @StormTradeBot and click **/start** button;
+2. Open **[@StormTradeBot](https://t.me/StormTradeBot)** and click **/start** button;
 3. Connect your **TON testnet wallet**;
 4. Get 1000 USDT testnet tokens on the separate page of the menu as well as use **[Faucet Telegram bot](https://t.me/testgiver_ton_bot)** to get some TON tokens for the fees;
 5. Done! Feel free to use the bot.
 
 ***Please pay attention that Storm is on the testing stage, so you need to connect your testnet wallet.***
 
-### Have a nice day and welcome to [our community] (https://t.me/storm_trade_fam)!
+### Have a nice day and welcome to [our community](https://t.me/storm_trade_fam)!
