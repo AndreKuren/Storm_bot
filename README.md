@@ -1,3 +1,5 @@
+![изображение](https://github.com/AndreKuren/Storm_bot/assets/49484901/cb485ae6-7bf8-47fb-92f1-85d8d2e3f104)
+
 Welcome to Storm Trade bot - place, where your trading experience has no limits!
 
 ## **What is Storm?**
